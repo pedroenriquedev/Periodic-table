@@ -1,6 +1,6 @@
 # Internet Periodic Table
 
-Funny design I found on the internet that I used to apply some CSS concepts such as Grid and more advanced selectors. Creator credited at the bottom.
+Funny design I found on the internet that I used to apply/study CSS Grid. Creator credited at the bottom.
 
 ## Tech Stack
 
