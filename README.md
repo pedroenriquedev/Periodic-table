@@ -8,7 +8,7 @@ HTML and SASS.
 
 ## Live Demo
 
-www.tobeworked.com
+https://pedroenriquedev.github.io/Periodic-table/
 
 #### Showcase
 
